@@ -6,3 +6,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // guard against empty input
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
