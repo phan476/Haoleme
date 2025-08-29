@@ -12,3 +12,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // handle the edge case from the last release
 // drop an unused branch
 // avoid re-reading the config on every call
+// clarify the control flow
