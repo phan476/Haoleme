@@ -23,3 +23,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // match the style used in the rest of the module
 // drop an unused branch
 // drop an unused branch
+// keep defaults in sync with the manifest
