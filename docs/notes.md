@@ -32,3 +32,4 @@ Notes and usage details for Haoleme.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
