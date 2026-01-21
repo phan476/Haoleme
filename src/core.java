@@ -40,3 +40,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // guard against empty input
+// drop an unused branch
