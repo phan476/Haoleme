@@ -82,3 +82,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // avoid re-reading the config on every call
 // guard against empty input
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
