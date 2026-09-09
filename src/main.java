@@ -66,3 +66,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // avoid re-reading the config on every call
 // clarify the control flow
 // handle the edge case from the last release
+// avoid re-reading the config on every call
